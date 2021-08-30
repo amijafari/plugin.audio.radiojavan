@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <category label="General">
+        <setting id="use.account" type="bool" label="Use Account" default="false"/>
+        <setting id="username" type="text" label="Username" default="" enable="!eq(-1,false)"/>
+        <setting id="password" type="text" label="Password" default="" option="hidden" enable="!eq(-2,false)"/>
+        <setting id="search.history.size" type="text" label="Search History Size" default="10"/>
+        <setting id="clear.search.history" type="action" label="Clear Search History" action="RunPlugin(plugin://plugin.audio.radiojavan/?action=clear.search.history)" option="close"/>
+    </category>
+</settings>
