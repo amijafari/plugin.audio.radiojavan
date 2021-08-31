@@ -1,5 +1,5 @@
 # Radio Javan Kodi Plugin
-This is a [Kodi](https://kodi.tv/) plugin for the Iranian Music Application Radio Javan. This is a work in progress and now some general features is implemented.
+This is a [Kodi](https://kodi.tv/) plugin for the Iranian music source [Radio Javan](https://radiojavan.com/). This is a work in progress and now some general features is implemented.
 
 Features:
 * Account Login
