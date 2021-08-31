@@ -3,11 +3,6 @@ This is a Kodi plugin for the Iranian Music Application Radio Javan. This is a w
 
 ## Requirements
 This plugin uses [RadioJavanAPI](https://github.com/xHossein/radiojavanapi/).  
-to install the module, ssh to Kodi server and run the following commands:
-```
-$ sudo apt install python3-pip 
-$ sudo pip install radiojavanapi
-```
 
 ## Installation 
 * 1- Download plugin as zip file
